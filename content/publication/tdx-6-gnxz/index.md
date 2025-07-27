@@ -1,12 +1,17 @@
 ---
 title: Layer Hall Effect without External Electric Field
 authors:
-- Yulei Han
+- admin
 - Yunpeng Guo
 - Zeyu Li
 - Zhenhua Qiao
-date: '2025-06-01'
-publishDate: '2025-07-27T11:24:55.349462Z'
+author_notes:
+- "Contact author"
+- ""
+- "Contact author"
+- "Contact author"
+date: '2025-06-13'
+publishDate: '2025-06-13T11:24:55.349462Z'
 publication_types:
 - article-journal
 publication: '*Phys. Rev. Lett.*'
