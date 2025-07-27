@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Yulei Han
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Yulei
+last_name: Han
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Physics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Fuzhou University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include quantum transport in theoretical condensed matter physics.
 
 interests:
   - Artificial Intelligence
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Condensed Matter Physics
+      institution: University of Science and Technology of China
+      year: 2019
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -50,7 +50,7 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=db7Xm5sAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
