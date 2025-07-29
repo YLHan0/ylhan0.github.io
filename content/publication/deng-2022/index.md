@@ -4,7 +4,7 @@ title: Topological Surface State Annihilation and Creation in SnTe/Crx(BiSb)2--x
 authors:
 - Peng Deng
 - Alexander Grutter
-- Yulei Han
+- admin
 - Megan E. Holtz
 - Peng Zhang
 - Patrick Quarterman
@@ -12,11 +12,22 @@ authors:
 - Shifei Qi
 - Zhenhua Qiao
 - Kang L. Wang
-date: '2022-07-01'
-publishDate: '2025-07-27T12:33:13.313647Z'
+author_notes:
+- "Corresponding author"
+- "co-first author"
+- "co-first author"
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
+date: '2022-07-19'
+publishDate: '2025-07-19T12:33:13.313647Z'
 publication_types:
 - article-journal
-publication: '*Nano Letters*'
+publication: '*Nano Letters* **22**, 5735 (2022) **[co-first author]**'
 doi: 10.1021/acs.nanolett.2c00774
 abstract: Topological surface states are a new class of electronic states with novel
   properties, including the potential for annihilation between surface states from

@@ -75,11 +75,3 @@ user_groups:
 Yulei Han is an associate professor of physics at the Department of Physics, Fuzhou University. His research interests include quantum transport in mesoscopic systems, and topological states of matters.
 
 韩玉磊，福州大学物理系副教授.
-
-
-{{< figure
-  src="/content/authors/admin/avatar.jpg"
-  alt="Avatar"
-  width="300"
-  height="400"
-  >}}
