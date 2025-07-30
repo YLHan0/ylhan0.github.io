@@ -5,7 +5,7 @@ authors:
 - Tiantian Dai
 - Zhi Yan
 - Meng Li
-- Yulei Han
+- admin
 - Zanhong Deng
 - Shimao Wang
 - Ruyang Wang
@@ -16,11 +16,11 @@ authors:
 - Zhenhua Qiao
 - Liang Li
 - Gang Meng
-date: '2022-01-01'
+date: '2022-08-26'
 publishDate: '2025-07-27T12:19:24.310349Z'
 publication_types:
 - article-journal
-publication: '*Small Methods*'
+publication: '*Small Methods* **6**, 2200728 (2022)'
 doi: https://doi.org/10.1002/smtd.202200728
 abstract: Abstract Insufficient limit of detection (LoD) toward volatile organic compounds
   (VOCs) hinders the promising applications of metal oxide chemiresistors in emerging

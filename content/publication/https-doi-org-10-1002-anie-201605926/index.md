@@ -3,7 +3,7 @@ title: The Origin of Improved Electrical Double-Layer Capacitance by Inclusion o
   Topological Defects and Dopants in Graphene for Supercapacitors
 authors:
 - Jiafeng Chen
-- Yulei Han
+- admin
 - Xianghua Kong
 - Xinzhou Deng
 - Hyo Ju Park
@@ -14,11 +14,24 @@ authors:
 - Zhenhua Qiao
 - Rodney S. Ruoff
 - Hengxing Ji
-date: '2016-01-01'
+author_notes:
+- "co-first author"
+- "co-first author"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
+date: '2016-10-04'
 publishDate: '2025-07-27T12:19:24.471212Z'
 publication_types:
 - article-journal
-publication: '*Angewandte Chemie International Edition*'
+publication: '*Angewandte Chemie International Edition* **55**, 13822 (2016) **[co-first author]**'
 doi: https://doi.org/10.1002/anie.201605926
 abstract: Abstract Low-energy density has long been the major limitation to the application
   of supercapacitors. Introducing topological defects and dopants in carbon-based
