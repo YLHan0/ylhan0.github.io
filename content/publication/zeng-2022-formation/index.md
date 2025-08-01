@@ -7,11 +7,11 @@ authors:
 - Tao Hou
 - Yulei Han
 - Zhenhua Qiao
-date: '2022-01-01'
+date: '2022-05-31'
 publishDate: '2025-07-27T12:19:24.318319Z'
 publication_types:
 - article-journal
-publication: '*Frontiers of Physics*'
+publication: '*Frontiers of Physics* **17**, 63503 (2022)'
 doi: 10.1007/s11467-022-1185-y
 links:
 - name: URL

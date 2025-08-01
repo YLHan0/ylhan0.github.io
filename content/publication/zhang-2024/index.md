@@ -1,6 +1,5 @@
 ---
-title: Reliable wafer-scale integration of two-dimensional materials and metal electrodes
-  with van der Waals contacts
+title: Reliable wafer-scale integration of two-dimensional materials and metal electrodes with van der Waals contacts
 authors:
 - Xiaodong Zhang
 - Chenxi Huang
@@ -10,14 +9,14 @@ authors:
 - Zhuping Ouyang
 - Yuliang Yang
 - Xiang Shao
-- Yulei Han
+- admin
 - Zhenhua Qiao
 - Hualing Zeng
-date: '2024-05-01'
+date: '2024-05-30'
 publishDate: '2025-07-27T12:19:24.240557Z'
 publication_types:
 - article-journal
-publication: '*Nature Communications*'
+publication: '*Nature Communications* **15**, 4619 (2024)'
 doi: 10.1038/s41467-024-49058-7
 abstract: Since the first report on single-layer MoS2 based transistor, rapid progress
   has been achieved in two-dimensional (2D) material-based atomically thin electronics,
