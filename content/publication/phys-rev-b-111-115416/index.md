@@ -9,7 +9,7 @@ authors:
 date: '2025-03-20'
 publishDate: '2025-03-20T11:24:55.358597Z'
 publication_types: ["article-journal"]
-publication: '*Physical Review B*'
+publication: '*Physical Review B* **111**, 115416 (2025)'
 doi: 10.1103/PhysRevB.111.115416
 links:
 - name: URL

@@ -3,14 +3,20 @@ title: Second-order topological insulator in van der Waals heterostructures of $
 authors:
 - Zheng Liu
 - Yafei Ren
-- Yulei Han
+- admin
 - Qian Niu
 - Zhenhua Qiao
-date: '2022-11-01'
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+date: '2022-11-09'
 publishDate: '2025-07-27T12:19:24.304079Z'
 publication_types:
 - article-journal
-publication: '*Physical Review B*'
+publication: '*Physical Review B* **106**, 195303 (2022)'
 doi: 10.1103/PhysRevB.106.195303
 links:
 - name: URL

@@ -5,13 +5,20 @@ authors:
 - Ruiling Gao
 - Maozhi Chang
 - Tao Hou
-- Yulei Han
+- admin
 - Zhenhua Qiao
-date: '2020-08-01'
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
+date: '2020-08-17'
 publishDate: '2025-07-27T12:19:24.401683Z'
 publication_types:
 - article-journal
-publication: '*Physical Review B*'
+publication: '*Physical Review B* **102**, 085419 (2020) **[Corresponding author]**'
 doi: 10.1103/PhysRevB.102.085419
 links:
 - name: URL
