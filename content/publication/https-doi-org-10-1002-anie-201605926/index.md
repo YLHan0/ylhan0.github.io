@@ -15,8 +15,8 @@ authors:
 - Rodney S. Ruoff
 - Hengxing Ji
 author_notes:
-- "co-first author"
-- "co-first author"
+- "Contributed equally"
+- "Contributed equally"
 - ""
 - ""
 - ""

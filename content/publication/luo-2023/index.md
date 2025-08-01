@@ -3,7 +3,7 @@ title: A unique van Hove singularity in kagome superconductor CsV3-xTaxSb5 with 
   superconductivity
 authors:
 - Yang Luo
-- Yulei Han
+- admin
 - Jinjin Liu
 - Hui Chen
 - Zihao Huang
@@ -28,11 +28,38 @@ authors:
 - Zhenhua Qiao
 - Zhiwei Wang
 - Junfeng He
-date: '2023-06-01'
+author_notes:
+- "Contributed equally"
+- "Contributed equally"
+- "Contributed equally"
+- "Contributed equally"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
+date: '2023-06-28'
 publishDate: '2025-07-27T12:19:24.270563Z'
 publication_types:
 - article-journal
-publication: '*Nature Communications*'
+publication: '*Nature Communications* **14**, 3819 (2023) **[co-first author]**'
 doi: 10.1038/s41467-023-39500-7
 abstract: Van Hove singularity (VHS) has been considered as a driving source for unconventional
   superconductivity. A VHS in two-dimensional (2D) materials consists of a saddle

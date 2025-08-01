@@ -14,8 +14,8 @@ authors:
 - Kang L. Wang
 author_notes:
 - "Corresponding author"
-- "co-first author"
-- "co-first author"
+- "Contributed equally"
+- "Contributed equally"
 - ""
 - ""
 - ""

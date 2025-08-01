@@ -20,10 +20,10 @@ authors:
 - Xianhui Chen
 - Junfeng He
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "Contributed equally"
+- "Contributed equally"
+- "Contributed equally"
+- "Contributed equally"
 date: "2024-03-09T00:00:00Z"
 doi: ""
 

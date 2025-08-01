@@ -4,14 +4,20 @@ title: In-plane magnetization-induced quantum anomalous Hall effect in atomic cr
 authors:
 - Peichen Zhong
 - Yafei Ren
-- Yulei Han
+- admin
 - Liyuan Zhang
 - Zhenhua Qiao
-date: '2017-12-01'
+author_notes:
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
+date: '2017-12-14'
 publishDate: '2025-07-27T12:19:24.452239Z'
 publication_types:
 - article-journal
-publication: '*Physical Review B*'
+publication: '*Physical Review B* **96**, 241103(R) (2017)'
 doi: 10.1103/PhysRevB.96.241103
 links:
 - name: URL

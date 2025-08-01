@@ -15,9 +15,9 @@ authors:
 - Zhenhua Qiao
 - A. Ariando
 author_notes:
-- "co-first author"
-- "co-first author"
-- "co-first author"
+- "Contributed equally"
+- "Contributed equally"
+- "Contributed equally"
 - "Corresponding author"
 - ""
 - ""

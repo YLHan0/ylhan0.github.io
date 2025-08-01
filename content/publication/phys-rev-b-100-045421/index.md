@@ -5,13 +5,19 @@ authors:
 - Kunhua Zhang
 - Xinlong Dong
 - Junjie Zeng
-- Yulei Han
+- admin
 - Zhenhua Qiao
-date: '2019-07-01'
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+date: '2019-07-25'
 publishDate: '2025-07-27T12:19:24.446003Z'
 publication_types:
 - article-journal
-publication: '*Physical Review B*'
+publication: '*Physical Review B* **100**, 045421 (2019)'
 doi: 10.1103/PhysRevB.100.045421
 links:
 - name: URL
