@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Yulei Han
+title: Yulei Han
 
 # Full Name (for SEO)
 first_name: Yulei

@@ -24,6 +24,20 @@ author_notes:
 - "Contributed equally"
 - "Contributed equally"
 - "Contributed equally"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
+- "Corresponding author"
 date: "2024-03-09T00:00:00Z"
 doi: ""
 
@@ -36,7 +50,7 @@ publishDate: "2024-03-09T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*npj Quantum Materials*"
+publication: "*npj Quantum Materials* **9**, 23 (2024) **[Co-first author]**"
 publication_short: ""
 
 abstract: Kagome superconductors AV3Sb5 (A=K, Rb and Cs) have attracted much recent attention due to the coexistence of multiple exotic orders. Among them, the charge density wave (CDW) order has been shown to host various unconventional behaviors. Here, we investigate the CDW order by a combination of both bulk and surface doping methods. While element substitutions in bulk doping change both carriers and the crystal lattice, the surface doping primarily tunes the carrier concentration. As such, our results reveal a two-dimensional phase diagram of the CDW in doped CsV3Sb5. In the lightly bulk doped regime, the existence of CDW order is reversible by tuning the carrier concentration. But excessive bulk doping permanently destroys the CDW, regardless of the carrier doping level. These results provide insights to the origin of the CDW from both electronic and structural degrees of freedom. They also open an avenue for manipulating the exotic CDW order in Kagome superconductors.
