@@ -73,6 +73,11 @@ user_groups:
   - Alumni
 ---
 
-<!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+在读期间主要获奖情况：
+2024年研究生国家奖学金
+2025年福州大学优秀毕业生
+2025年度福州大学研究生综合优秀学业奖学金一等奖
+2024年度福州大学研究生中期优秀学业奖学金二等奖
+2024年福州大学物理与信息工程学院第三届研究生学术论坛二等奖
+福州大学研究生新生奖学金二等奖
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
