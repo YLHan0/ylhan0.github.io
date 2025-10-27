@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Graduate and undergraduate students are welcome.
+        PhD candidate, graduate and undergraduate students are welcome.
       email: han@fzu.edu.cn
       phone: 
       address:
