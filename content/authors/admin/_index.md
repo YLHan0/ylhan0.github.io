@@ -72,7 +72,7 @@ user_groups:
   - Researchers
 ---
 
-Yulei Han is an associate professor and PhD supervisor of condensed matter physics at the Department of Physics, Fuzhou University. His research interests include quantum transport in mesoscopic systems, and topological states of matters. He has published 41 peer-reviewed papers, including Physical Review Letters (5), Nature Communications (2), Advanced Materials (1)，Angew. Chem. Int. Ed. (1), Nano Letters (1), Physical Review B (23), Frontiers of Physics (5), npj Quantum Materials (1), Small Methods (1)，CPL (1) [Updated in June 2025]
+Yulei Han is an associate professor and PhD supervisor of condensed matter physics at the Department of Physics, Fuzhou University. His research interests include quantum transport in mesoscopic systems, and topological states of matters. He has published 44 peer-reviewed papers, including Physical Review Letters (5), Physical Review X (1), Nature Communications (2), Advanced Materials (1)，Angew. Chem. Int. Ed. (1), Nano Letters (1), Physical Review B (24), Science China-PMA (1), Frontiers of Physics (5), npj Quantum Materials (1), Small Methods (1)，CPL (1) [Updated in Dec. 2025]
 
 Also see:  
 https://orcid.org/0000-0003-0241-8120  
