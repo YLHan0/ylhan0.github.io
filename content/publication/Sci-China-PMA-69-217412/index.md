@@ -42,8 +42,8 @@ author_notes:
 - "Corresponding author"
 - "Corresponding author"
 - "Corresponding author"
-date: '2025-12-05'
-publishDate: '2025-12-05T12:19:24.369700Z'
+date: '2026-01-01'
+publishDate: '2026-01-01T12:19:24.369700Z'
 publication_types:
 - article-journal
 publication: '*Science China-Phys. Mech. Astron* **69**, 217412 (2026) **[Co-first author]**'
