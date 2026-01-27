@@ -1,5 +1,5 @@
 ---
-title: Step defects in bismuth bromide Bi4⁢Br4: Spatial reconfiguration and beam splitter of helical hinge states
+title: Step defects in bismuth bromide Bi4Br4 Spatial reconfiguration and beam splitter of helical hinge states
 authors:
 - Yan-Feng Zhou
 - Qi-Kai Ding
